@@ -1,0 +1,19 @@
+Yemeksepeti Test Otomasyon Projesi
+
+Login testi için aşağıdaki 4 senaryo yazıldı.
+
+- Doğru kullanıcı adı ve şifre ile giriş
+- Yanlış kullanıcı adı ve şifre ile giriş
+- Doğru kullanıcı adı ve yanlış şifre ile giriş
+- Yanlış kullanıcı adı ve doğru şifre ile giriş
+
+Favorilere ürün eklenmesi için aşağıdaki 3 senaryo yazıldı.
+
+- Süper restoranlar altındaki puanı 9.0'dan büyük olan restoranın eklenmesi ve favorilerim menüsü altındaki kontrolü
+- Süper restoranlar altındaki puanı 9.0'dan büyük olan restoranın eklenmesi ve favorilerim menüsü altındaki yanlış restoran isminin kontrolü
+- Favorilerim sayfasından eklenen bütün favorilerin silinmesi
+
+Proje TestNG frameworkü kullanılarak java dilinde yazılmıştır. Page Object Module design pattern kullanılmıştır. Google Chrome , Mozilla Firefox ve Opera tarayıcılarında
+kullanabilir durumdadır. Hata alındığı durumda ekran görüntüsü alınmaktadır. Senaryo tamamlandıktan sonra test-output dosyası altından emailable-report.html açılarak raporu
+incelenebilir. Senaryonun çalıştırabilmesi için yemeksepeti.xml dosyası altından koşulacak test classı gösterilmelidir. Senaryolar paralel koşulacak şekilde ayarlanmıştır.
+Thread-count ayarlanarak aynı anda kaç tane senaryo koşulacağı seçilebilir.

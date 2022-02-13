@@ -1,0 +1,414 @@
+2022-02-12 19:42:08 INFO  HomePage:19 - Checking page is load.
+2022-02-12 19:42:08 INFO  HomePage:25 - Selecting city.
+2022-02-12 19:42:12 INFO  HomePage:31 - Selecting username.
+2022-02-12 19:42:12 INFO  HomePage:37 - Writing password.
+2022-02-12 19:42:12 INFO  HomePage:43 - Login button is clicked
+2022-02-12 19:42:13 INFO  HomePage:49 - Checking error message
+2022-02-12 19:45:00 INFO  HomePage:19 - Checking page is load.
+2022-02-12 19:45:00 INFO  HomePage:19 - Checking page is load.
+2022-02-12 19:45:00 INFO  HomePage:19 - Checking page is load.
+2022-02-12 19:45:00 INFO  HomePage:19 - Checking page is load.
+2022-02-12 19:45:00 INFO  HomePage:25 - Selecting city.
+2022-02-12 19:45:00 INFO  HomePage:25 - Selecting city.
+2022-02-12 19:45:00 INFO  HomePage:25 - Selecting city.
+2022-02-12 19:45:00 INFO  HomePage:25 - Selecting city.
+2022-02-12 19:45:04 INFO  HomePage:31 - Writing username.
+2022-02-12 19:45:05 INFO  HomePage:37 - Writing password.
+2022-02-12 19:45:07 INFO  HomePage:43 - Login button is clicked
+2022-02-12 19:45:07 INFO  HomePage:49 - Checking error message
+2022-02-12 23:38:50 INFO  HomePage:19 - Checking page is load.
+2022-02-12 23:38:50 INFO  HomePage:19 - Checking page is load.
+2022-02-12 23:38:50 INFO  HomePage:19 - Checking page is load.
+2022-02-12 23:38:50 INFO  HomePage:25 - Selecting city.
+2022-02-12 23:38:50 INFO  HomePage:25 - Selecting city.
+2022-02-12 23:38:50 INFO  HomePage:25 - Selecting city.
+2022-02-12 23:38:56 INFO  HomePage:31 - Writing username.
+2022-02-12 23:38:56 INFO  HomePage:19 - Checking page is load.
+2022-02-12 23:38:56 INFO  HomePage:25 - Selecting city.
+2022-02-12 23:38:57 INFO  HomePage:37 - Writing password.
+2022-02-12 23:39:09 INFO  HomePage:43 - Login button is clicked
+2022-02-12 23:39:09 INFO  HomePage:49 - Checking error message
+2022-02-12 23:42:51 INFO  HomePage:19 - Checking page is load.
+2022-02-12 23:42:51 INFO  HomePage:19 - Checking page is load.
+2022-02-12 23:42:51 INFO  HomePage:19 - Checking page is load.
+2022-02-12 23:42:51 INFO  HomePage:19 - Checking page is load.
+2022-02-12 23:42:53 INFO  HomePage:25 - Selecting city.
+2022-02-12 23:42:53 INFO  HomePage:25 - Selecting city.
+2022-02-12 23:42:53 INFO  HomePage:25 - Selecting city.
+2022-02-12 23:42:53 INFO  HomePage:25 - Selecting city.
+2022-02-12 23:42:59 INFO  HomePage:31 - Writing username.
+2022-02-12 23:42:59 INFO  HomePage:37 - Writing password.
+2022-02-12 23:44:43 INFO  HomePage:19 - Checking page is load.
+2022-02-12 23:44:43 INFO  HomePage:19 - Checking page is load.
+2022-02-12 23:44:43 INFO  HomePage:19 - Checking page is load.
+2022-02-12 23:44:43 INFO  HomePage:19 - Checking page is load.
+2022-02-12 23:44:43 INFO  HomePage:25 - Selecting city.
+2022-02-12 23:44:43 INFO  HomePage:25 - Selecting city.
+2022-02-12 23:44:43 INFO  HomePage:25 - Selecting city.
+2022-02-12 23:44:43 INFO  HomePage:25 - Selecting city.
+2022-02-12 23:44:49 INFO  HomePage:31 - Writing username.
+2022-02-12 23:44:49 INFO  HomePage:37 - Writing password.
+2022-02-12 23:46:14 INFO  HomePage:19 - Checking page is load.
+2022-02-12 23:46:14 INFO  HomePage:25 - Selecting city.
+2022-02-12 23:46:15 INFO  HomePage:31 - Writing username.
+2022-02-12 23:46:18 INFO  HomePage:37 - Writing password.
+2022-02-12 23:46:18 INFO  HomePage:43 - Login button is clicked
+2022-02-12 23:46:18 INFO  HomePage:49 - Checking error message
+2022-02-12 23:46:53 INFO  HomePage:19 - Checking page is load.
+2022-02-12 23:46:53 INFO  HomePage:25 - Selecting city.
+2022-02-12 23:46:57 INFO  HomePage:31 - Writing username.
+2022-02-12 23:46:57 INFO  HomePage:37 - Writing password.
+2022-02-12 23:46:57 INFO  HomePage:43 - Login button is clicked
+2022-02-12 23:46:57 INFO  HomePage:49 - Checking error message
+2022-02-12 23:48:00 INFO  HomePage:19 - Checking page is load.
+2022-02-12 23:48:00 INFO  HomePage:25 - Selecting city.
+2022-02-12 23:48:04 INFO  HomePage:31 - Writing username.
+2022-02-12 23:48:04 INFO  HomePage:37 - Writing password.
+2022-02-12 23:48:05 INFO  HomePage:43 - Login button is clicked
+2022-02-12 23:48:05 INFO  HomePage:49 - Checking error message
+2022-02-12 23:48:38 INFO  HomePage:19 - Checking page is load.
+2022-02-12 23:48:38 INFO  HomePage:25 - Selecting city.
+2022-02-12 23:48:41 INFO  HomePage:31 - Writing username.
+2022-02-12 23:48:42 INFO  HomePage:37 - Writing password.
+2022-02-12 23:48:42 INFO  HomePage:43 - Login button is clicked
+2022-02-12 23:48:42 INFO  HomePage:49 - Checking error message
+2022-02-12 23:48:56 INFO  HomePage:19 - Checking page is load.
+2022-02-12 23:48:56 INFO  HomePage:25 - Selecting city.
+2022-02-12 23:48:57 INFO  HomePage:31 - Writing username.
+2022-02-12 23:49:00 INFO  HomePage:37 - Writing password.
+2022-02-12 23:49:00 INFO  HomePage:43 - Login button is clicked
+2022-02-12 23:49:01 INFO  HomePage:49 - Checking error message
+2022-02-12 23:49:15 INFO  HomePage:19 - Checking page is load.
+2022-02-12 23:49:15 INFO  HomePage:25 - Selecting city.
+2022-02-12 23:49:19 INFO  HomePage:31 - Writing username.
+2022-02-12 23:49:19 INFO  HomePage:37 - Writing password.
+2022-02-12 23:49:19 INFO  HomePage:43 - Login button is clicked
+2022-02-12 23:49:20 INFO  HomePage:49 - Checking error message
+2022-02-12 23:52:18 INFO  HomePage:19 - Checking page is load.
+2022-02-12 23:52:18 INFO  HomePage:25 - Selecting city.
+2022-02-12 23:52:21 INFO  HomePage:31 - Writing username.
+2022-02-12 23:52:22 INFO  HomePage:37 - Writing password.
+2022-02-12 23:52:22 INFO  HomePage:43 - Login button is clicked.
+2022-02-12 23:52:22 INFO  HomePage:49 - Checking error message.
+2022-02-12 23:52:42 INFO  HomePage:53 - User logged in successfully
+2022-02-12 23:52:55 INFO  HomePage:19 - Checking page is load.
+2022-02-12 23:52:55 INFO  HomePage:25 - Selecting city.
+2022-02-12 23:52:58 INFO  HomePage:31 - Writing username.
+2022-02-12 23:52:58 INFO  HomePage:37 - Writing password.
+2022-02-12 23:52:58 INFO  HomePage:43 - Login button is clicked.
+2022-02-12 23:52:59 INFO  HomePage:49 - Checking error message.
+2022-02-12 23:53:12 INFO  HomePage:19 - Checking page is load.
+2022-02-12 23:53:12 INFO  HomePage:25 - Selecting city.
+2022-02-12 23:53:16 INFO  HomePage:31 - Writing username.
+2022-02-12 23:53:16 INFO  HomePage:37 - Writing password.
+2022-02-12 23:53:16 INFO  HomePage:43 - Login button is clicked.
+2022-02-12 23:53:17 INFO  HomePage:49 - Checking error message.
+2022-02-12 23:53:33 INFO  HomePage:19 - Checking page is load.
+2022-02-12 23:53:33 INFO  HomePage:25 - Selecting city.
+2022-02-12 23:53:36 INFO  HomePage:31 - Writing username.
+2022-02-12 23:53:36 INFO  HomePage:37 - Writing password.
+2022-02-12 23:53:37 INFO  HomePage:43 - Login button is clicked.
+2022-02-12 23:53:37 INFO  HomePage:49 - Checking error message.
+2022-02-13 00:07:41 INFO  HomePage:19 - Checking page is load.
+2022-02-13 00:07:41 INFO  HomePage:25 - Selecting city.
+2022-02-13 00:07:45 INFO  HomePage:31 - Writing username.
+2022-02-13 00:07:46 INFO  HomePage:37 - Writing password.
+2022-02-13 00:07:46 INFO  HomePage:43 - Login button is clicked.
+2022-02-13 00:07:46 INFO  HomePage:49 - Checking error message.
+2022-02-13 00:08:06 INFO  HomePage:53 - User logged in successfully
+2022-02-13 00:08:17 INFO  HomePage:19 - Checking page is load.
+2022-02-13 00:08:17 INFO  HomePage:25 - Selecting city.
+2022-02-13 00:08:21 INFO  HomePage:31 - Writing username.
+2022-02-13 00:08:21 INFO  HomePage:37 - Writing password.
+2022-02-13 00:08:21 INFO  HomePage:43 - Login button is clicked.
+2022-02-13 00:08:21 INFO  HomePage:49 - Checking error message.
+2022-02-13 00:08:34 INFO  HomePage:19 - Checking page is load.
+2022-02-13 00:08:34 INFO  HomePage:25 - Selecting city.
+2022-02-13 00:08:38 INFO  HomePage:31 - Writing username.
+2022-02-13 00:08:38 INFO  HomePage:37 - Writing password.
+2022-02-13 00:08:39 INFO  HomePage:43 - Login button is clicked.
+2022-02-13 00:08:39 INFO  HomePage:49 - Checking error message.
+2022-02-13 00:08:53 INFO  HomePage:19 - Checking page is load.
+2022-02-13 00:08:53 INFO  HomePage:25 - Selecting city.
+2022-02-13 00:08:57 INFO  HomePage:31 - Writing username.
+2022-02-13 00:08:57 INFO  HomePage:37 - Writing password.
+2022-02-13 00:08:57 INFO  HomePage:43 - Login button is clicked.
+2022-02-13 00:08:57 INFO  HomePage:49 - Checking error message.
+2022-02-13 00:15:27 INFO  HomePage:19 - Checking page is load.
+2022-02-13 00:15:27 INFO  HomePage:25 - Selecting city.
+2022-02-13 00:15:30 INFO  HomePage:31 - Writing username.
+2022-02-13 00:15:31 INFO  HomePage:37 - Writing password.
+2022-02-13 00:15:31 INFO  HomePage:43 - Login button is clicked.
+2022-02-13 00:15:31 INFO  HomePage:49 - Checking error message.
+2022-02-13 00:15:51 INFO  HomePage:53 - User logged in successfully
+2022-02-13 00:17:23 INFO  HomePage:19 - Checking page is load.
+2022-02-13 00:17:23 INFO  HomePage:25 - Selecting city.
+2022-02-13 00:17:27 INFO  HomePage:31 - Writing username.
+2022-02-13 00:17:27 INFO  HomePage:37 - Writing password.
+2022-02-13 00:17:27 INFO  HomePage:43 - Login button is clicked.
+2022-02-13 00:17:27 INFO  HomePage:49 - Checking error message.
+2022-02-13 00:45:46 INFO  HomePage:24 - Checking page is load.
+2022-02-13 00:45:46 INFO  HomePage:30 - Selecting city.
+2022-02-13 00:45:49 INFO  HomePage:36 - Writing username.
+2022-02-13 00:45:50 INFO  HomePage:42 - Writing password.
+2022-02-13 00:45:50 INFO  HomePage:48 - Login button is clicked.
+2022-02-13 00:45:50 INFO  HomePage:54 - Checking error message.
+2022-02-13 00:46:11 INFO  HomePage:58 - User logged in successfully
+2022-02-13 00:46:11 INFO  HomePage:63 - Clicks Super restaurants menu
+2022-02-13 00:46:11 INFO  HomePage:69 - Gets Super restaurants list
+2022-02-13 00:49:29 INFO  HomePage:24 - Checking page is load.
+2022-02-13 00:49:29 INFO  HomePage:30 - Selecting city.
+2022-02-13 00:49:34 INFO  HomePage:36 - Writing username.
+2022-02-13 00:49:35 INFO  HomePage:42 - Writing password.
+2022-02-13 00:49:35 INFO  HomePage:48 - Login button is clicked.
+2022-02-13 00:49:35 INFO  HomePage:54 - Checking error message.
+2022-02-13 00:49:55 INFO  HomePage:58 - User logged in successfully
+2022-02-13 00:49:55 INFO  HomePage:63 - Clicks Super restaurants menu
+2022-02-13 00:49:55 INFO  HomePage:69 - Gets Super restaurants list
+2022-02-13 00:51:44 INFO  HomePage:24 - Checking page is load.
+2022-02-13 00:51:44 INFO  HomePage:30 - Selecting city.
+2022-02-13 00:51:47 INFO  HomePage:36 - Writing username.
+2022-02-13 00:51:47 INFO  HomePage:42 - Writing password.
+2022-02-13 00:51:48 INFO  HomePage:48 - Login button is clicked.
+2022-02-13 00:51:48 INFO  HomePage:54 - Checking error message.
+2022-02-13 00:52:08 INFO  HomePage:58 - User logged in successfully
+2022-02-13 00:52:08 INFO  HomePage:63 - Clicks Super restaurants menu
+2022-02-13 00:52:08 INFO  HomePage:69 - Gets Super restaurants list
+2022-02-13 00:52:48 INFO  HomePage:24 - Checking page is load.
+2022-02-13 00:52:48 INFO  HomePage:30 - Selecting city.
+2022-02-13 00:52:52 INFO  HomePage:36 - Writing username.
+2022-02-13 00:52:52 INFO  HomePage:42 - Writing password.
+2022-02-13 00:52:53 INFO  HomePage:48 - Login button is clicked.
+2022-02-13 00:52:53 INFO  HomePage:54 - Checking error message.
+2022-02-13 00:53:13 INFO  HomePage:58 - User logged in successfully
+2022-02-13 00:53:13 INFO  HomePage:63 - Clicks Super restaurants menu
+2022-02-13 00:53:13 INFO  HomePage:69 - Gets Super restaurants list
+2022-02-13 00:54:34 INFO  HomePage:24 - Checking page is load.
+2022-02-13 00:54:34 INFO  HomePage:30 - Selecting city.
+2022-02-13 00:54:37 INFO  HomePage:36 - Writing username.
+2022-02-13 00:54:38 INFO  HomePage:42 - Writing password.
+2022-02-13 00:54:38 INFO  HomePage:48 - Login button is clicked.
+2022-02-13 00:54:38 INFO  HomePage:54 - Checking error message.
+2022-02-13 00:54:58 INFO  HomePage:58 - User logged in successfully
+2022-02-13 00:54:58 INFO  HomePage:63 - Clicks Super restaurants menu
+2022-02-13 00:54:58 INFO  HomePage:69 - Gets Super restaurants list
+2022-02-13 00:56:09 INFO  HomePage:24 - Checking page is load.
+2022-02-13 00:56:09 INFO  HomePage:30 - Selecting city.
+2022-02-13 00:56:11 INFO  HomePage:36 - Writing username.
+2022-02-13 00:56:11 INFO  HomePage:42 - Writing password.
+2022-02-13 00:56:11 INFO  HomePage:48 - Login button is clicked.
+2022-02-13 00:56:11 INFO  HomePage:54 - Checking error message.
+2022-02-13 00:56:31 INFO  HomePage:58 - User logged in successfully
+2022-02-13 00:56:31 INFO  HomePage:63 - Clicks Super restaurants menu
+2022-02-13 00:56:31 INFO  HomePage:69 - Gets Super restaurants list
+2022-02-13 00:59:40 INFO  HomePage:24 - Checking page is load.
+2022-02-13 00:59:40 INFO  HomePage:30 - Selecting city.
+2022-02-13 00:59:43 INFO  HomePage:36 - Writing username.
+2022-02-13 00:59:43 INFO  HomePage:42 - Writing password.
+2022-02-13 00:59:43 INFO  HomePage:48 - Login button is clicked.
+2022-02-13 00:59:43 INFO  HomePage:54 - Checking error message.
+2022-02-13 01:00:03 INFO  HomePage:58 - User logged in successfully
+2022-02-13 01:00:03 INFO  HomePage:63 - Clicks Super restaurants menu
+2022-02-13 01:00:03 INFO  HomePage:69 - Gets Super restaurants list
+2022-02-13 01:01:50 INFO  HomePage:24 - Checking page is load.
+2022-02-13 01:01:50 INFO  HomePage:30 - Selecting city.
+2022-02-13 01:01:52 INFO  HomePage:36 - Writing username.
+2022-02-13 01:01:52 INFO  HomePage:42 - Writing password.
+2022-02-13 01:01:52 INFO  HomePage:48 - Login button is clicked.
+2022-02-13 01:01:52 INFO  HomePage:54 - Checking error message.
+2022-02-13 01:02:13 INFO  HomePage:58 - User logged in successfully
+2022-02-13 01:02:13 INFO  HomePage:63 - Clicks Super restaurants menu
+2022-02-13 01:02:13 INFO  HomePage:69 - Gets Super restaurants list
+2022-02-13 01:02:13 INFO  HomePage:77 - Restaurant Name : (Gurme Mutfak) Ev Yemekleri, Üsküdar (Acıbadem Mah.)
+2022-02-13 16:17:39 INFO  HomePage:27 - Checking page is load.
+2022-02-13 16:17:39 INFO  HomePage:33 - Selecting city.
+2022-02-13 16:17:42 INFO  HomePage:39 - Writing username.
+2022-02-13 16:17:42 INFO  HomePage:45 - Writing password.
+2022-02-13 16:17:42 INFO  HomePage:51 - Login button is clicked.
+2022-02-13 16:17:42 INFO  HomePage:57 - Checking error message.
+2022-02-13 16:18:03 INFO  HomePage:61 - User logged in successfully.
+2022-02-13 16:18:03 INFO  HomePage:66 - Clicks Super restaurants menu.
+2022-02-13 16:18:03 INFO  HomePage:71 - Gets Super restaurants list.
+2022-02-13 16:18:03 INFO  HomePage:80 - Restaurant Name : ! Ufuklar Dürümcü Bey, Kadıköy (Sahrayıcedit Mah.)
+2022-02-13 16:18:06 INFO  RestaurantDetailPage:13 - Clicks add to favorite button.
+2022-02-13 16:18:06 INFO  HomePage:92 - Homepage loads.
+2022-02-13 16:19:05 INFO  HomePage:27 - Checking page is load.
+2022-02-13 16:19:05 INFO  HomePage:33 - Selecting city.
+2022-02-13 16:19:09 INFO  HomePage:39 - Writing username.
+2022-02-13 16:19:09 INFO  HomePage:45 - Writing password.
+2022-02-13 16:19:10 INFO  HomePage:51 - Login button is clicked.
+2022-02-13 16:19:10 INFO  HomePage:57 - Checking error message.
+2022-02-13 16:19:30 INFO  HomePage:61 - User logged in successfully.
+2022-02-13 16:19:30 INFO  HomePage:66 - Clicks Super restaurants menu.
+2022-02-13 16:19:30 INFO  HomePage:71 - Gets Super restaurants list.
+2022-02-13 16:19:31 INFO  HomePage:80 - Restaurant Name : ! İnci Profiterol Beyoğlu, Üsküdar (Bulgurlu Mah.)
+2022-02-13 16:19:34 INFO  RestaurantDetailPage:13 - Clicks add to favorite button.
+2022-02-13 16:21:36 INFO  HomePage:27 - Checking page is load.
+2022-02-13 16:21:36 INFO  HomePage:33 - Selecting city.
+2022-02-13 16:21:39 INFO  HomePage:39 - Writing username.
+2022-02-13 16:21:39 INFO  HomePage:45 - Writing password.
+2022-02-13 16:21:39 INFO  HomePage:51 - Login button is clicked.
+2022-02-13 16:21:39 INFO  HomePage:57 - Checking error message.
+2022-02-13 16:21:59 INFO  HomePage:61 - User logged in successfully.
+2022-02-13 16:21:59 INFO  HomePage:66 - Clicks Super restaurants menu.
+2022-02-13 16:22:00 INFO  HomePage:71 - Gets Super restaurants list.
+2022-02-13 16:22:00 INFO  HomePage:80 - Restaurant Name : (Able Chef's Flavors), Beşiktaş (Ulus Mah.)
+2022-02-13 16:22:03 INFO  RestaurantDetailPage:13 - Clicks add to favorite button.
+2022-02-13 16:25:51 INFO  HomePage:27 - Checking page is load.
+2022-02-13 16:25:51 INFO  HomePage:33 - Selecting city.
+2022-02-13 16:25:53 INFO  HomePage:39 - Writing username.
+2022-02-13 16:25:53 INFO  HomePage:45 - Writing password.
+2022-02-13 16:25:53 INFO  HomePage:51 - Login button is clicked.
+2022-02-13 16:25:53 INFO  HomePage:57 - Checking error message.
+2022-02-13 16:26:13 INFO  HomePage:61 - User logged in successfully.
+2022-02-13 16:26:13 INFO  HomePage:66 - Clicks Super restaurants menu.
+2022-02-13 16:26:13 INFO  HomePage:71 - Gets Super restaurants list.
+2022-02-13 16:26:14 INFO  HomePage:80 - Restaurant Name : .Sushiwind., Bakırköy (Yeşilköy Mah.)
+2022-02-13 16:26:17 INFO  RestaurantDetailPage:15 - Clicks add to favorite button.
+2022-02-13 16:26:17 INFO  HomePage:92 - Homepage loads.
+2022-02-13 16:26:57 INFO  HomePage:27 - Checking page is load.
+2022-02-13 16:26:57 INFO  HomePage:33 - Selecting city.
+2022-02-13 16:27:00 INFO  HomePage:39 - Writing username.
+2022-02-13 16:27:00 INFO  HomePage:45 - Writing password.
+2022-02-13 16:27:00 INFO  HomePage:51 - Login button is clicked.
+2022-02-13 16:27:00 INFO  HomePage:57 - Checking error message.
+2022-02-13 16:27:21 INFO  HomePage:61 - User logged in successfully.
+2022-02-13 16:27:21 INFO  HomePage:66 - Clicks Super restaurants menu.
+2022-02-13 16:27:21 INFO  HomePage:71 - Gets Super restaurants list.
+2022-02-13 16:27:21 INFO  HomePage:80 - Restaurant Name : ! Ufuklar Dürümcü Bey, Kadıköy (Sahrayıcedit Mah.)
+2022-02-13 16:27:24 INFO  RestaurantDetailPage:15 - Clicks add to favorite button.
+2022-02-13 16:28:20 INFO  HomePage:27 - Checking page is load.
+2022-02-13 16:28:20 INFO  HomePage:33 - Selecting city.
+2022-02-13 16:28:23 INFO  HomePage:39 - Writing username.
+2022-02-13 16:28:23 INFO  HomePage:45 - Writing password.
+2022-02-13 16:28:23 INFO  HomePage:51 - Login button is clicked.
+2022-02-13 16:28:23 INFO  HomePage:57 - Checking error message.
+2022-02-13 16:28:43 INFO  HomePage:61 - User logged in successfully.
+2022-02-13 16:28:43 INFO  HomePage:66 - Clicks Super restaurants menu.
+2022-02-13 16:28:43 INFO  HomePage:71 - Gets Super restaurants list.
+2022-02-13 16:28:44 INFO  HomePage:80 - Restaurant Name : (Able Chef's Flavors), Beşiktaş (Ulus Mah.)
+2022-02-13 16:38:44 INFO  RestaurantDetailPage:15 - Clicks add to favorite button.
+2022-02-13 16:39:05 INFO  HomePage:27 - Checking page is load.
+2022-02-13 16:39:05 INFO  HomePage:33 - Selecting city.
+2022-02-13 16:39:08 INFO  HomePage:39 - Writing username.
+2022-02-13 16:39:08 INFO  HomePage:45 - Writing password.
+2022-02-13 16:39:08 INFO  HomePage:51 - Login button is clicked.
+2022-02-13 16:39:08 INFO  HomePage:57 - Checking error message.
+2022-02-13 16:39:28 INFO  HomePage:61 - User logged in successfully.
+2022-02-13 16:39:28 INFO  HomePage:66 - Clicks Super restaurants menu.
+2022-02-13 16:39:28 INFO  HomePage:71 - Gets Super restaurants list.
+2022-02-13 16:39:29 INFO  HomePage:80 - Restaurant Name : (Able Chef's Flavors), Beşiktaş (Ulus Mah.)
+2022-02-13 16:40:21 INFO  RestaurantDetailPage:15 - Clicks add to favorite button.
+2022-02-13 16:40:43 INFO  HomePage:27 - Checking page is load.
+2022-02-13 16:40:43 INFO  HomePage:33 - Selecting city.
+2022-02-13 16:40:46 INFO  HomePage:39 - Writing username.
+2022-02-13 16:40:46 INFO  HomePage:45 - Writing password.
+2022-02-13 16:40:46 INFO  HomePage:51 - Login button is clicked.
+2022-02-13 16:40:46 INFO  HomePage:57 - Checking error message.
+2022-02-13 16:41:06 INFO  HomePage:61 - User logged in successfully.
+2022-02-13 16:41:06 INFO  HomePage:66 - Clicks Super restaurants menu.
+2022-02-13 16:41:07 INFO  HomePage:71 - Gets Super restaurants list.
+2022-02-13 16:41:07 INFO  HomePage:80 - Restaurant Name : ! İnci Profiterol Beyoğlu, Üsküdar (Bulgurlu Mah.)
+2022-02-13 16:42:31 INFO  RestaurantDetailPage:15 - Clicks add to favorite button.
+2022-02-13 16:43:10 INFO  HomePage:92 - Homepage loads.
+2022-02-13 16:46:40 INFO  HomePage:27 - Checking page is load.
+2022-02-13 16:46:40 INFO  HomePage:33 - Selecting city.
+2022-02-13 16:46:44 INFO  HomePage:39 - Writing username.
+2022-02-13 16:46:44 INFO  HomePage:45 - Writing password.
+2022-02-13 16:46:44 INFO  HomePage:51 - Login button is clicked.
+2022-02-13 16:46:44 INFO  HomePage:57 - Checking error message.
+2022-02-13 16:47:04 INFO  HomePage:61 - User logged in successfully.
+2022-02-13 16:47:04 INFO  HomePage:66 - Clicks Super restaurants menu.
+2022-02-13 16:47:04 INFO  HomePage:71 - Gets Super restaurants list.
+2022-02-13 16:47:05 INFO  HomePage:80 - Restaurant Name : ! İnci Profiterol Beyoğlu, Üsküdar (Bulgurlu Mah.)
+2022-02-13 16:49:23 INFO  RestaurantDetailPage:15 - Clicks add to favorite button.
+2022-02-13 16:49:24 INFO  HomePage:92 - Homepage loads.
+2022-02-13 16:49:55 INFO  HomePage:98 - Clicks favorites menu.
+2022-02-13 16:49:55 INFO  HomePage:104 - Gets favorites.
+2022-02-13 16:49:56 INFO  HomePage:111 - Restaurant listed under favorites.
+2022-02-13 17:02:16 INFO  HomePage:27 - Checking page is load.
+2022-02-13 17:02:16 INFO  HomePage:33 - Selecting city.
+2022-02-13 17:02:18 INFO  HomePage:39 - Writing username.
+2022-02-13 17:02:19 INFO  HomePage:45 - Writing password.
+2022-02-13 17:02:19 INFO  HomePage:51 - Login button is clicked.
+2022-02-13 17:02:19 INFO  HomePage:57 - Checking error message.
+2022-02-13 17:04:14 INFO  HomePage:27 - Checking page is load.
+2022-02-13 17:04:14 INFO  HomePage:33 - Selecting city.
+2022-02-13 17:04:16 INFO  HomePage:39 - Writing username.
+2022-02-13 17:04:17 INFO  HomePage:45 - Writing password.
+2022-02-13 17:04:17 INFO  HomePage:51 - Login button is clicked.
+2022-02-13 17:04:17 INFO  HomePage:57 - Checking error message.
+2022-02-13 17:04:37 INFO  HomePage:61 - User logged in successfully.
+2022-02-13 17:04:37 INFO  HomePage:66 - Clicks Super restaurants menu.
+2022-02-13 17:04:37 INFO  HomePage:71 - Gets Super restaurants list.
+2022-02-13 17:04:38 INFO  HomePage:80 - Restaurant Name : ! Ufuklar Dürümcü Bey, Kadıköy (Sahrayıcedit Mah.)
+2022-02-13 17:04:41 INFO  RestaurantDetailPage:15 - Clicks add to favorite button.
+2022-02-13 17:04:42 INFO  HomePage:92 - Homepage loads.
+2022-02-13 17:04:45 INFO  HomePage:98 - Clicks favorites menu.
+2022-02-13 17:04:45 INFO  HomePage:104 - Gets favorites.
+2022-02-13 17:13:50 INFO  HomePage:27 - Checking page is load.
+2022-02-13 17:13:50 INFO  HomePage:33 - Selecting city.
+2022-02-13 17:13:53 INFO  HomePage:39 - Writing username.
+2022-02-13 17:13:54 INFO  HomePage:45 - Writing password.
+2022-02-13 17:13:54 INFO  HomePage:51 - Login button is clicked.
+2022-02-13 17:13:54 INFO  HomePage:57 - Checking error message.
+2022-02-13 17:14:14 INFO  HomePage:61 - User logged in successfully.
+2022-02-13 17:14:14 INFO  HomePage:66 - Clicks Super restaurants menu.
+2022-02-13 17:14:14 INFO  HomePage:71 - Gets Super restaurants list.
+2022-02-13 17:14:15 INFO  HomePage:80 - Restaurant Name : 'Noodleast Sushi, Ataşehir (Esatpaşa Mah.)
+2022-02-13 17:14:19 INFO  RestaurantDetailPage:15 - Clicks add to favorite button.
+2022-02-13 17:14:19 INFO  HomePage:92 - Homepage loads.
+2022-02-13 17:14:22 INFO  HomePage:98 - Clicks favorites menu.
+2022-02-13 17:14:23 INFO  HomePage:104 - Gets favorites.
+2022-02-13 17:14:23 INFO  HomePage:111 - Restaurant listed under favorites.
+2022-02-13 18:01:47 INFO  HomePage:28 - Checking page is load.
+2022-02-13 18:01:47 INFO  HomePage:34 - Selecting city.
+2022-02-13 18:01:51 INFO  HomePage:40 - Writing username.
+2022-02-13 18:01:51 INFO  HomePage:46 - Writing password.
+2022-02-13 18:01:52 INFO  HomePage:52 - Login button is clicked.
+2022-02-13 18:01:52 INFO  HomePage:58 - Checking error message.
+2022-02-13 18:02:12 INFO  HomePage:62 - User logged in successfully.
+2022-02-13 18:02:12 INFO  HomePage:122 - Clicks profile.
+2022-02-13 18:02:12 INFO  HomePage:128 - Selects menu.
+2022-02-13 18:02:16 INFO  RestaurantDetailPage:17 - Selects all favorites
+2022-02-13 18:02:17 INFO  RestaurantDetailPage:27 - Delete favorites
+2022-02-13 18:03:34 INFO  HomePage:28 - Checking page is load.
+2022-02-13 18:03:34 INFO  HomePage:34 - Selecting city.
+2022-02-13 18:03:38 INFO  HomePage:40 - Writing username.
+2022-02-13 18:03:38 INFO  HomePage:46 - Writing password.
+2022-02-13 18:03:38 INFO  HomePage:52 - Login button is clicked.
+2022-02-13 18:03:38 INFO  HomePage:58 - Checking error message.
+2022-02-13 18:03:59 INFO  HomePage:62 - User logged in successfully.
+2022-02-13 18:03:59 INFO  HomePage:122 - Clicks profile.
+2022-02-13 18:03:59 INFO  HomePage:128 - Selects menu.
+2022-02-13 18:04:02 INFO  RestaurantDetailPage:17 - Selects all favorites
+2022-02-13 18:04:03 INFO  RestaurantDetailPage:27 - Delete favorites
+2022-02-13 18:08:07 INFO  HomePage:29 - Checking page is load.
+2022-02-13 18:08:07 INFO  HomePage:36 - Selecting city.
+2022-02-13 18:08:11 INFO  HomePage:42 - Writing username.
+2022-02-13 18:08:11 INFO  HomePage:48 - Writing password.
+2022-02-13 18:08:11 INFO  HomePage:54 - Login button is clicked.
+2022-02-13 18:08:11 INFO  HomePage:60 - Checking error message.
+2022-02-13 18:08:31 INFO  HomePage:64 - User logged in successfully.
+2022-02-13 18:08:31 INFO  HomePage:69 - Clicks Super restaurants menu.
+2022-02-13 18:08:32 INFO  HomePage:74 - Gets Super restaurants list.
+2022-02-13 18:08:33 INFO  HomePage:83 - Restaurant Name : .Sushiwind., Bakırköy (Yeşilköy Mah.)
+2022-02-13 18:08:38 INFO  RestaurantDetailPage:15 - Clicks add to favorite button.
+2022-02-13 18:08:38 INFO  HomePage:95 - Homepage loads.
+2022-02-13 18:08:42 INFO  HomePage:101 - Clicks favorites menu.
+2022-02-13 18:08:42 INFO  HomePage:107 - Gets favorites.
+2022-02-13 18:08:43 INFO  HomePage:114 - Restaurant listed under favorites.
+2022-02-13 18:12:35 INFO  HomePage:29 - Checking page is load.
+2022-02-13 18:12:35 INFO  HomePage:36 - Selecting city.
+2022-02-13 18:12:38 INFO  HomePage:43 - Writing username.
+2022-02-13 18:12:39 INFO  HomePage:50 - Writing password.
+2022-02-13 18:12:39 INFO  HomePage:57 - Login button is clicked.
+2022-02-13 18:12:39 INFO  HomePage:64 - Checking error message.
+2022-02-13 18:12:59 INFO  HomePage:69 - User logged in successfully.
+2022-02-13 18:12:59 INFO  HomePage:74 - Clicks Super restaurants menu.
+2022-02-13 18:12:59 INFO  HomePage:80 - Gets Super restaurants list.
+2022-02-13 18:13:00 INFO  HomePage:90 - Restaurant Name : ! Ufuklar Dürümcü Bey, Kadıköy (Sahrayıcedit Mah.)
+2022-02-13 18:13:06 INFO  RestaurantDetailPage:16 - Clicks add to favorite button.
+2022-02-13 18:13:06 INFO  HomePage:103 - Homepage loads.
+2022-02-13 18:13:10 INFO  HomePage:110 - Clicks favorites menu.
+2022-02-13 18:13:10 INFO  HomePage:117 - Gets favorites.
